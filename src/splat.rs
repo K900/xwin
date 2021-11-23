@@ -329,7 +329,7 @@ pub(crate) fn splat(
                         true
                     };
 
-                    if write {
+                    if true {
                         let src_path = src.join(fname);
 
                         if config.copy {
